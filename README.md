@@ -10,7 +10,7 @@
 ### 🧰 Tech Stack
 
 - **Languages:** Java, JavaScript
-- **Tools:** Selenium, JMeter, TestNG, Cypress
+- **Tools:** Selenium, JMeter, TestNG
 - **CI/CD:** Jenkins, GitHub Actions
 - **Version Control:** Git, GitHub
 
